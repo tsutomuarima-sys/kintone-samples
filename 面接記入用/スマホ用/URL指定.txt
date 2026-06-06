@@ -1,0 +1,2 @@
+https://js.cybozu.com/jquery/2.1.4/jquery.min.js
+https://js.cybozu.com/luxon/3.5.0/luxon.min.js
